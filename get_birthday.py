@@ -1,4 +1,4 @@
-from datetime import datetime, timedelta
+from datetime import datetime
 
 users = [{"name": "Raul", "birthday": datetime(year=2017, month=11, day=7)},
     {"name": "Kamila", "birthday": datetime(year=2018, month=11, day=6)},
